@@ -5,13 +5,11 @@
 
 ## 🚀 A Little About Me  
 - 🔭 **Currently building:** A.V.A – An AI Voice Assistant 🤖  
-- 🌱 **Exploring and learning:** AI, Machine Learning, and Web Development  
+- 🌱 **Exploring and learning:** AI, Machine Learning, Data Science and Web Development  
 - 👯 **Looking to collaborate on:** AI, Python, and Web-based projects  
-- 🤔 **Need help with:** Optimizing AI models and voice recognition tech  
 - 💬 **Talk to me about:** Python, AI innovations, and all things tech!  
 - 📫 **Reach me at:** [rakeshdevesh43@gmail.com](mailto:rakeshdevesh43@gmail.com)  
-- ⚡ **Fun fact:** Code works in mysterious ways—sometimes, I solve bugs, and sometimes, they teach me a lesson first. 😆  
-
+- ⚡ **Fun fact:** Debugging is like being the detective in a crime movie where you are also the murderer. 🕵️‍♂️🐛
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_devesh.43) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devesh2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakeshdevesh43@gmail.com) 
 
