@@ -1,5 +1,5 @@
 # 💫 Hi! 👋 I'm Devesh  
-**A Data Scientist, Python Developer, and Web Developer - building intelligent solutions and driving innovation in tech. Currently bringing A.V.A (An AI Voice Assistant) to life!**  
+**A Data Scientist, Python Developer, and Web Developer who is building intelligent solutions and driving innovation in tech. Currently bringing A.V.A (An AI Voice Assistant) to life!**  
 
 📩 **Let’s connect!** [rakeshdevesh43@gmail.com](mailto:rakeshdevesh43@gmail.com) – Whether it’s a cool project, a tech discussion, or just geeking out over code, I’m always up for a good chat!  
 
