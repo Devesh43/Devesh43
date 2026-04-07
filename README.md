@@ -7,7 +7,7 @@
 -  **What I'm Currently building:** A.V.A – An AI Voice Assistant  
 -  **Exploring and learning:** AI, Machine Learning, Data Science and Web Development  
 -  **Looking to collaborate on:** AI, Python, and Web-based projects  
--  **Talk to me about:** Python, AI innovations, and all things about emerging tech!  
+-  **Talk to me about:** Python, AI innovations, and all things about emerging tech.  
 -  **Reach me at:** [rakeshdevesh43@gmail.com](mailto:rakeshdevesh43@gmail.com)  
 -  **Fun fact:** Debugging is like playing the detective in a crime thriller—only to realize you're also the culprit.
 ##  Socials:
