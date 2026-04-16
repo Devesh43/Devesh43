@@ -3,7 +3,7 @@
 
  **Let’s connect!** [rakeshdevesh43@gmail.com](mailto:rakeshdevesh43@gmail.com) – Whether it’s some cool project, a tech discussion, or just geeking out over code, I’m always up for a good chat!  
 
-##  A Little About Me  
+##  A Bit About Me  
 -  **What I'm Currently building:** A.V.A – An AI Voice Assistant  
 -  **Exploring and learning:** AI, Machine Learning, Data Science and Web Development  
 -  **Looking to collaborate on:** AI, Python, and Web-based projects  
