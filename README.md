@@ -10,7 +10,7 @@ I like projects that solve real problems — especially when they involve **secu
 
 ---
 
-##  What I've Worked On
+## What I've Worked On
 
 ### 🇮🇳 Indian Cyber Crime Coordination Centre — Ministry of Home Affairs
 
@@ -26,7 +26,7 @@ Worked on technology for cybercrime intelligence and investigation workflows.
 
 ---
 
-###  IFSO / NCFL — Special Cell, Delhi Police
+### IFSO / NCFL — Special Cell, Delhi Police
 
 **Cyber Forensics Intern**
 
@@ -41,9 +41,9 @@ This project later evolved into **EvidenX** — a forensic analysis toolkit with
 
 ---
 
-##  Selected Projects
+## Selected Projects
 
-###  SiteMind
+### SiteMind
 
 **Website Intelligence through RAG**
 
@@ -53,7 +53,7 @@ A website crawling and retrieval system that converts large websites into search
 
 ---
 
-###  EvidenX
+### EvidenX
 
 **Android Messaging Forensics Toolkit**
 
@@ -63,7 +63,7 @@ Forensic extraction and visualization tooling for analysing artifacts from Whats
 
 ---
 
-###  Multi-Document RAG
+### Multi-Document RAG
 
 Upload multiple documents and interact with them through retrieval-augmented generation and contextual reasoning.
 
@@ -71,7 +71,7 @@ Upload multiple documents and interact with them through retrieval-augmented gen
 
 ---
 
-###  Galaxy Morphology Classifier
+### Galaxy Morphology Classifier
 
 Deep-learning based galaxy image classification using transfer learning.
 
@@ -83,7 +83,7 @@ Deep-learning based galaxy image classification using transfer learning.
 
 ---
 
-###  India Investment Grid Scraper
+### India Investment Grid Scraper
 
 Automated extraction pipeline for structured infrastructure project data.
 
@@ -94,7 +94,7 @@ Automated extraction pipeline for structured infrastructure project data.
 
 ---
 
-##  Tech I Work With
+## Tech I Work With
 
 ### Languages
 
@@ -151,12 +151,24 @@ Automated extraction pipeline for structured infrastructure project data.
 ## 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Devesh43&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh43&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devesh43&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devesh43&theme=github-dark-blue&hide_border=true" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Devesh43/Devesh43/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Devesh43/Devesh43/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/Devesh43/Devesh43/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
@@ -179,7 +191,7 @@ I also participated in an **IASC asteroid-search campaign**, because apparently 
 
 ---
 
-##  Let's Connect
+## Let's Connect
 
 I'm always interested in conversations around **cybersecurity, applied AI, digital forensics, software engineering, astronomy, or interesting things being built on the internet.**
 
