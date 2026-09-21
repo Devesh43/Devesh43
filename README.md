@@ -1,37 +1,194 @@
-#  Hi! I'm Devesh  
-**A Data Scientist, Python Developer, and Web Developer who is building intelligent solutions and driving innovation in tech. Currently bringing A.V.A (An AI Voice Assistant) to life!**  
+# Hey, I'm Devesh 
 
- **Let’s connect!** [rakeshdevesh43@gmail.com](mailto:rakeshdevesh43@gmail.com) – Whether it’s some cool project, a tech discussion, or just geeking out over code, I’m always up for a good chat!  
+### Cybersecurity • Applied AI • Software Engineering
 
-##  A Bit About Me  
--  **What I'm Currently building:** REPULENS : A Reputation Analysis Platform  
--  **Exploring and learning:** AI, Machine Learning, Data Science and Web Development  
--  **Looking to collaborate on:** AI, Python, and Web-based projects  
--  **Talk to me about:** Python, AI innovations, and all things about emerging tech.  
--  **Reach me at:** [rakeshdevesh43@gmail.com](mailto:rakeshdevesh43@gmail.com)  
--  **Fun fact:** Debugging is like playing the detective in a crime thriller—only to realize you're also the culprit.
-##  Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_devesh.43) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devesh2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakeshdevesh43@gmail.com) 
+I'm a final-year **Electronics & Communication Engineering** student at **MSIT, New Delhi**, interested in building systems at the intersection of **cybersecurity, AI, data, and software engineering**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+I've worked on cybercrime intelligence and forensic tooling with **I4C, Ministry of Home Affairs** and **IFSO/NCFL, Delhi Police**, building everything from digital-forensics tools to RAG systems and analytical dashboards.
 
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Devesh43&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Devesh43&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh43&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I like projects that solve real problems — especially when they involve **security, messy data, automation, or intelligent systems**.
 
-<!-- Snake Game Repo View -->
+---
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+##  What I've Worked On
 
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Devesh43&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🇮🇳 Indian Cyber Crime Coordination Centre — Ministry of Home Affairs
 
-###  Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Software & Cybersecurity Intern · JCCT Vertical**
 
+Worked on technology for cybercrime intelligence and investigation workflows.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* Built an **NCRP analytics dashboard** for analysing cybercrime-related intelligence and reporting patterns.
+* Developed **SiteMind**, a website RAG system capable of crawling and indexing large websites for source-grounded conversational retrieval.
+* Built a **multi-document RAG system** for querying and reasoning across uploaded documents.
+* Developed an **orchestration layer** connecting multiple analytical tools through a unified interface.
+* Worked with technologies including **React, FastAPI, Node.js, Playwright, Qdrant, Chroma and Gemini**.
+
+---
+
+###  IFSO / NCFL — Special Cell, Delhi Police
+
+**Cyber Forensics Intern**
+
+Built a digital-forensics suite for extracting and analysing messaging and social-media artifacts.
+
+* Developed extraction and visualization workflows for **WhatsApp, Signal and Instagram** data.
+* Worked with Android forensic datasets and application databases.
+* Built searchable, per-chat forensic viewers with media and export capabilities.
+* Worked with datasets extracted using professional mobile forensic tooling.
+
+This project later evolved into **EvidenX** — a forensic analysis toolkit with GUI and CLI implementations.
+
+---
+
+##  Selected Projects
+
+###  SiteMind
+
+**Website Intelligence through RAG**
+
+A website crawling and retrieval system that converts large websites into searchable knowledge bases.
+
+`React` `FastAPI` `Playwright` `Trafilatura` `Qdrant` `Gemini`
+
+---
+
+###  EvidenX
+
+**Android Messaging Forensics Toolkit**
+
+Forensic extraction and visualization tooling for analysing artifacts from WhatsApp, Signal and Instagram.
+
+`Python` `Android Forensics` `SQLite` `Digital Forensics`
+
+---
+
+###  Multi-Document RAG
+
+Upload multiple documents and interact with them through retrieval-augmented generation and contextual reasoning.
+
+`RAG` `Embeddings` `Vector Databases` `LLMs`
+
+---
+
+###  Galaxy Morphology Classifier
+
+Deep-learning based galaxy image classification using transfer learning.
+
+* MobileNetV2 / EfficientNetB0
+* ~82% validation accuracy
+* Flask-based inference interface
+
+`Python` `TensorFlow` `Computer Vision` `Flask`
+
+---
+
+###  India Investment Grid Scraper
+
+Automated extraction pipeline for structured infrastructure project data.
+
+* Scraped **2,000+ project records**
+* Automated browser interaction and data processing
+
+`Python` `Playwright` `BeautifulSoup` `Pandas`
+
+---
+
+##  Tech I Work With
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Web & Backend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+
+### AI / Data
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
+
+### Security / Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
+`Digital Forensics` • `Android Forensics` • `Cybercrime Intelligence` • `RAG` • `Vector Databases` • `Web Scraping`
+
+---
+
+## 📚 Currently Learning
+
+```text
+├── Cybersecurity
+│   ├── Networking & Security Fundamentals
+│   ├── SOC / Detection Engineering
+│   ├── Cloud Security
+│   └── Hands-on Security Labs
+│
+├── Software Engineering
+│   ├── Java
+│   └── Data Structures & Algorithms
+│
+└── Applied AI
+    ├── RAG Systems
+    ├── LLM Applications
+    └── Intelligent Automation
+```
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Devesh43&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh43&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devesh43&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## Beyond Code
+
+When I'm not building something, I'm probably:
+
+🔭 Looking through my telescope
+
+📚 Reading literature or philosophy
+
+✍️ Writing about morality, existence and human behaviour
+
+🌌 Learning something about astronomy
+
+🎹 Listening to classical music or film scores
+
+I also participated in an **IASC asteroid-search campaign**, because apparently debugging software wasn't enough and I needed to start debugging the sky too.
+
+---
+
+##  Let's Connect
+
+I'm always interested in conversations around **cybersecurity, applied AI, digital forensics, software engineering, astronomy, or interesting things being built on the internet.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devesh-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/devesh2005)
+[![Instagram](https://img.shields.io/badge/Instagram-@_devesh.43-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/_devesh.43)
+[![Email](https://img.shields.io/badge/Email-rakeshdevesh43%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rakeshdevesh43@gmail.com)
+
+---
+
+<p align="center">
+  <i>Building things. Breaking things. Understanding why they broke.</i>
+</p>
